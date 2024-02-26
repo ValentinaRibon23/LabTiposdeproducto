@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab Tipos de producto</string>
+    <string-array name="tipos_producto_array">
+        <item>Seleccionar tipo de producto</item>
+        <item>Sólido</item>
+        <item>Agrícola</item>
+        <item>Líquido</item>
+    </string-array>
+    <string-array name="tipos_empaque_array">
+        <item>Seleccionar tipo de empaque</item>
+        <item>Bulto</item>
+        <item>Granel</item>
+        <!-- Agrega aquí más elementos según sea necesario -->
+    </string-array>
+</resources>
